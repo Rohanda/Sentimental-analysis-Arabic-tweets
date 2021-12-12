@@ -5,8 +5,8 @@ The model achieved an accuracy of 90.16% and AUC of 0.966 on test set.
 
 | Name | Link |
 | ------ | ------ |
-| Dataset | [https://www.kaggle.com/mksaad/arabic-sentiment-twitter-corpus][PlDb] |
-| Bert Model | [https://huggingface.co/asafaya/bert-mini-arabic/blob/main/README.md][PlGh] |
+| Dataset | https://www.kaggle.com/mksaad/arabic-sentiment-twitter-corpus |
+| Bert Model | https://huggingface.co/asafaya/bert-mini-arabic/blob/main/README.md |
 
 
 ## Team
